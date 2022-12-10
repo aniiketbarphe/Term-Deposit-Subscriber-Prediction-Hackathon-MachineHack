@@ -1,3 +1,5 @@
+![Final_Image-Introduction](https://user-images.githubusercontent.com/84449238/206861364-ce7733e6-d473-4cc0-9924-10b61d51031b.jpg)
+
 # Term-Deposit-Subscriber-Prediction-Hackathon-MachineHack
 
 Overview
