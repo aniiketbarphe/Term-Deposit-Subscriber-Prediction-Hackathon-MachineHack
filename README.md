@@ -54,7 +54,7 @@ Build a machine learning model to predict "Term Deposit Subcriber" for Bank
 
 **4) Evaluation metric:-** The submission will be evaluated using the Log Loss metric.
 
-**5) Public and Private Split:-
+**5) Public and Private Split:-**
 
 a) This hackathon supports private and public leaderboards.
 
@@ -64,4 +64,22 @@ c) The private leaderboard will be made available at the end of the hackathon, w
 
 # Summary
 
-LINK:- https://machinehack.com/hackathons/subscriber_prediction_talent_search_hackathon/leaderboard 
+**a) Best Submission Score:-**
+
+**1) Public Leaderboard :-** 0.56605
+
+**2) Private Leaderboard :-** 0.58154
+
+**b) Best Model:-** LGBM Classifier
+
+![Public-Rank](https://user-images.githubusercontent.com/84449238/207693121-d52fca21-3e1c-4ffb-a64e-e1829ac11607.jpg)
+
+![Private-Rank](https://user-images.githubusercontent.com/84449238/207693182-0c820a90-8814-40e2-8629-ca5a5e117102.jpg)
+
+**c) Competition Link:-**  https://machinehack.com/hackathons/subscriber_prediction_talent_search_hackathon/leaderboard
+
+**d) Rank Scored:-**
+
+a) **13** out of **496** registered participants (Public Leaderboard)
+
+b) **15** out of **496** registered participants (Private Leaderboard)
