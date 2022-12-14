@@ -2,20 +2,22 @@
 
 # Term-Deposit-Subscriber-Prediction-Hackathon-MachineHack
 
-Overview
-Analytics India Magazine is organizing this hackathon in association with Presidency University under its flagship program AIM Campus Program. The primary aim of this hackathon to make the students able to build powerful machine learning models in a competitive challenge and give recognition to the talented students.
+**1) Problem Statement:-**
 
-This hackathon, named “Subscriber Prediction Talent Search Hackathon”, is being conducted by MachineHack - India’s leading machine learning competitive platform and a brand of Analytics India Magazine. This hackathon is specifically conducted for the participants from the Presidency University, Bangalore, where all the students having an interest in machine learning can take part in it.
+This hackathon will try to address the challenges of banking telecallers when they call blindly to people in order to sell term deposit plans. The aim of this hackathon is to find the most accurate prediction of whether a person to be called will subscribe to the term deposit plan or not using any of the machine learning algorithms. The participants can use the historical data that consists of different features of customers and whether they subscribed to the plan or not. 
 
-This hackathon will try to address the challenges of banking telecallers when they call blindly to people in order to sell term deposit plans. The aim of this hackathon is to find the most accurate prediction of whether a person to be called will subscribe to the term deposit plan or not using any of the machine learning algorithms. The participants can use the historical data that consists of different features of customers and whether they subscribed to the plan or not. Using this data, the participants need to build a machine learning model in order to make predictions.
+**2) Task:-**
 
-(Data dimension: 17 features and 30,000 records)
+Build a machine learning model to predict "Term Deposit Subcriber" for Bank
 
-The dataset has 17 features, including 16 input features and 1 output or target feature
+**3) Dataset:-**
 
-Input Features
-Age: Age of the customer
-Job: Type of job of customer
+**3.1) Data dimension:-** 17 features and 30,000 records. The dataset has 17 features, including 16 input features and 1 output or target feature
+
+**3.2) Input Features:-**
+
+a) Age: Age of the customer
+b) Job: Type of job of customer
 Marital: Marital status of the customer
 Education: The education level of the customer
 Default: Has credit in default?
