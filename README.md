@@ -17,6 +17,7 @@ Build a machine learning model to predict "Term Deposit Subcriber" for Bank
 **3.2) Input Features:-**
 
 a) Age: Age of the customer
+
 b) Job: Type of job of customer
 Marital: Marital status of the customer
 Education: The education level of the customer
